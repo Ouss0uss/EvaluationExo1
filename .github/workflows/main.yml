@@ -11,7 +11,7 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@4.3.3
       with:
         server: files.000webhost.com
-        username: fofanaouthman
-        password: iCwpRiCu7(Pxzz((Ent*
+        username: coursouss
+        password: Outhman2001
         server-dir: public_html/
-	 timeout: 90000
+        timeout: 90000
